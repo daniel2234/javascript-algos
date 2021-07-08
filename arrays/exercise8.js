@@ -13,10 +13,4 @@ function oddLengths (arr) {
   }, [])
 }
 
-
-
-
-
-
-
 console.log(oddLengths(arr)); // => [1, 5, 3]

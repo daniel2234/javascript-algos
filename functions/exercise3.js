@@ -12,3 +12,4 @@ function getNumber(prompt) {
 let left = getNumber('Enter the first number: ');
 let right = getNumber('Enter the second number: ');
 console.log(`${left} * ${right} = ${multiply(left, right)}`);
+console.log(`good job on the exercise`);
